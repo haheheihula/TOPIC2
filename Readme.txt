@@ -4,9 +4,7 @@ Goal:
 
 Hello, nice to see you here! :
 
-Hello, nice to see you! ZJ has read!
+Hello, nice to see you! 
 
-
-)
-
+ZJ has read!
 王子麒 已阅
