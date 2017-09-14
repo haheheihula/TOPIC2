@@ -1,0 +1,12 @@
+#include <opencv2/opencv.hpp>
+using namespace cv;
+
+void main() 
+{
+
+	Mat srcImage = imread("xiaohuangren.jpg");
+	namedWindow("原图", WINDOW_NORMAL);
+	imshow("原图", srcImage);
+
+	waitKey(0);
+}
